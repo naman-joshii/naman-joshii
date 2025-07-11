@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 I’m currently working on:
-- A full-stack **Twitter Clone** using the MERN stack  
+- Real-Time Messaging App (MERN + Socket.IO + JWT Authentication)
 - Personal Portfolio Website (React + Tailwind)
 
 ### 🌱 I’m currently learning:
