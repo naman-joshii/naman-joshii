@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Naman Joshi
 
-🚀 A passionate MERN Stack Developer & Full-Stack Learner from India 🇮🇳
+🚀 A passionate MERN Stack Developer & Full-Stack Learner | 🇮🇳
 
 🎓 B.E. in Computer Science | Exploring Web Dev, DSA & Open Source  
 
