@@ -12,11 +12,11 @@
 
 ### 🔭 I’m currently working on:
 - Real-Time Messaging App (MERN + Socket.IO + JWT Authentication)
-- Personal Portfolio Website (React + Tailwind)
+- LLM and golang
 
 ### 🌱 I’m currently learning:
 - **Next.js**, **TypeScript**, and advanced backend concepts  
-- Real-time apps using **Socket.IO** and **WebSockets**
+- LLM and Go - how to integrate models and makeing controllers using Go
 
   
 
